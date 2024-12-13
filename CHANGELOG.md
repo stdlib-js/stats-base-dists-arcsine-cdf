@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-11)
+## Unreleased (2024-12-13)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`be1e1c4`](https://github.com/stdlib-js/stdlib/commit/be1e1c4a2e5d9a1e0ebc0e2f0a4244c50d4142c5) - **bench:** fix missing namespace _(by Athan Reines)_
 -   [`e7e0f46`](https://github.com/stdlib-js/stdlib/commit/e7e0f4690074d14b9e2b86a6bc3c61d75ce66ac0) - **feat:** add C implementation for arcsine CDF [(#3354)](https://github.com/stdlib-js/stdlib/pull/3354) _(by Philipp Burckhardt, Athan Reines, stdlib-bot)_
 
 </details>
