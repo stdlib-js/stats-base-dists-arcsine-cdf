@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`727d50a`](https://github.com/stdlib-js/stdlib/commit/727d50a761a91df5259078eed98b8a4f9b2e4c52) - **bench:** refactor random number generation in `stats/base/dists/arcsine` [(#4744)](https://github.com/stdlib-js/stdlib/pull/4744) _(by Karan Anand)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`be1e1c4`](https://github.com/stdlib-js/stdlib/commit/be1e1c4a2e5d9a1e0ebc0e2f0a4244c50d4142c5) - **bench:** fix missing namespace _(by Athan Reines)_
