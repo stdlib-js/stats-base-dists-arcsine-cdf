@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-06)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7b64d86`](https://github.com/stdlib-js/stdlib/commit/7b64d86d19a7dde54b04f244eabc86f12fcfe4a5) - **test:** migrate `stats/base/dists/arcsine/cdf` to ULP-based testing [(#13986)](https://github.com/stdlib-js/stdlib/pull/13986) _(by Jannatul Mawa, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Jannatul Mawa
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-07)
